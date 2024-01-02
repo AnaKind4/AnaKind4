@@ -3,6 +3,10 @@
 - 🌱 I’m currently learning Cyber Threat Intelligence, Offensive Security and Defensive Security.
 - ⚡ Fun fact: I'm not your father ...
 
+<p align="center">  
+<img src="https://komarev.com/ghpvc/?username=AnaKind4&color=grey">
+</p>
+
 <br />
 <p align = "center">
   <img src="https://github-readme-stats.vercel.app/api?username=AnaKind4&show_icons=true&theme=monokai" width=375 />
