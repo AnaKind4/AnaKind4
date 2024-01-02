@@ -12,8 +12,8 @@ Here are some ideas to get you started:
 
 <br />
 <p align = "center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnaKind4&show_icons=true&theme=monokai" width=400 />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=An@Kind4&theme=monokai&hide_border=true" width=400 />
+  <img src="https://github-readme-stats.vercel.app/api?username=An@Kind4&show_icons=true&theme=monokai" width=400 />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnaKind4&theme=monokai&hide_border=true" width=400 />
 </p>
 <br/>
 
