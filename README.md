@@ -14,7 +14,7 @@
 
 <br />
 <p align = "center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnaKind4&show_icons=true&title_color=55ff55&icon_color=55ff55&text_color=60ff60&bg_color=050505" width=377 />
+  <img src="https://github-readme-stats.vercel.app/api?username=AnaKind4&show_icons=true&title_color=55ff56&icon_color=55ff55&text_color=60ff60&bg_color=050505" width=377 />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnaKind4&show_icons=true&theme=hacker" width=400 />
 </p>
 <br/>
