@@ -2,15 +2,16 @@
 - 🌱 I’m currently learning Cyber Threat Intelligence, Offensive Security and Defensive Security.
 - ⚡ Fun fact: I'm not your father ...
 
-### Currently  Working/learning about 🛠  
-![Security](https://img.shields.io/badge/-Security-05122A?style=flat&logo=hackaday&color=black)&nbsp;
+### Enthusiast:🫶
 ![CyberSecurity](https://img.shields.io/badge/-CyberSecurity-05122A?style=flat&logo=hackaday&color=black)&nbsp;
-![SecurityResearch](https://img.shields.io/badge/-SecurityResearch-05122A?style=flat&logo=hackaday&color=black)&nbsp; 
 ![BlueTeam](https://img.shields.io/badge/BlueTeam-05122A?style=flat&logo=hackaday&color=blue)&nbsp;
 ![CyberThreatIntelligence](https://img.shields.io/badge/CyberThreatIntelligence-05122A?style=flat&logo=hackaday&color=purple)&nbsp;
 ![PurpleTeam](https://img.shields.io/badge/PurpleTeam-05122A?style=flat&logo=hackaday&color=purple)&nbsp;
-![RedTeam](https://img.shields.io/badge/RedTeam-FF0000?style=flat&logo=hackaday&logoColor=white)&nbsp;
-![MalwareAnalysis](https://img.shields.io/badge/MalwareAnalysis-05122A?style=flat&logo=hackaday&color=black)&nbsp;
+
+### Learning more about 🛠  
+![RedTeamOffensiveSecurity](https://img.shields.io/badge/RedTeam~OffensiveSecurity-FF0000?style=flat&logo=hackaday&logoColor=white)&nbsp;
+![MalwareAnalysis](https://img.shields.io/badge/MalwareAnalysis-05122A?style=flat&logo=hackaday&color=purple)&nbsp;
+![ReverseEngineering](https://img.shields.io/badge/-ReverseEngineering-05122A?style=flat&logo=hackaday&color=black)&nbsp;
 
 
 <picture>
