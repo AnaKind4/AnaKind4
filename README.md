@@ -1,5 +1,5 @@
 ### Hi Guys! 👋
-- 🌱 I’m currently learning Cyber Threat Intelligence, Offensive Security and Defensive Security.
+- 🌱 I’m currently learning Cyber Threat Intelligence and Offensive Security.
 - ⚡ Fun fact: I'm not your father ...
 
 ### Enthusiast:🫶
